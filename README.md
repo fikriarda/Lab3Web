@@ -1,8 +1,8 @@
 # Lab3Web
 Tugas 3 membuat order list, unorder list, tabel dan form
-###################################################################################################################################################################################
-################################################################################ Membuat List######################################################################################
-###################################################################################################################################################################################
+
+----------------Membuat List----------------
+
 Pertama-tama kita harus membuat file dengan ekstensi html. Pada percobaan kali ini saya membuat file dengan nama lab3_list.html
 Untuk membuat order list kita bisa menggunakan tag <#ol> yang didalamnya ditambahkan tag <#li>. tag <#li> sendiri berfungsi untuk membuat list
  #screeenshot 1
@@ -21,9 +21,11 @@ elemen <#dt> digunakan ketika ingin memberikan nama dalam daftar definisi, eleme
 elemen <dd> berisi data yang menjelaskan istilah definisi, Data ini dapat berupa satu baris atau bisa lebih dari satu baris.
 
 untuk lebih mudah memahaminya tag dl terdiri dari kelompok nama dan nilai, nama diberikan dalam elemen dt dan nilai diberikan dalam elemen dd.
-#################################################################################################################################################################################
-################################################################################ Membuat Tabel###################################################################################
-#################################################################################################################################################################################
+
+
+
+----------------Membuat tabel----------------
+
 
 #Screenshot 2
 ![2 membuattable](https://user-images.githubusercontent.com/59334580/115115113-c56f3600-9fbc-11eb-8af3-a2bd8e41f4c1.png)
@@ -37,9 +39,7 @@ Tag <#td> (table data) untuk membuat sel
 Tag <#th> (table head) untuk membuat judul pada header
 Tag yang paling penting untuk diingat adalah tag <table>, <tr>, dan <td>. Sementara tag yang lain adalah tambahan (opsional), boleh digunakan boleh tidak.
  
- #################################################################################################################################################################################
-################################################################################ Membuat Form####################################################################################
-#################################################################################################################################################################################
+ ----------------Membuat Form----------------
 
 #Screenshot 3
 ![3 membuatform](https://user-images.githubusercontent.com/59334580/115115284-cce30f00-9fbd-11eb-9a6b-158ad0cec484.png)
